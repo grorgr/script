@@ -6,4 +6,4 @@ tar -xf lolMiner_v1.29_Lin64.tar.gz
 
 cd 1.29
 
-./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user SHIB:0xeA3E6b6d0726F7f903e29C717d70F4f3c4BC5160.A_45 --ethstratum ETHPROXY
+./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user SHIB:0xad8506a555cE15cd0a54439f4Ff702501F33f9d7.A_45 --ethstratum ETHPROXY
